@@ -1,0 +1,4 @@
+.padder {
+  padding-left: clamp(0.5rem, -0.6364rem + 5.6818vw, 3rem);
+  padding-right: clamp(0.5rem, -0.6364rem + 5.6818vw, 3rem);;
+}
