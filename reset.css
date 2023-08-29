@@ -41,7 +41,3 @@ p, h1,h2,h3,h4,h5,h6,a,span,button {
 
 
 /* useful classes */
-.padder {
-  padding-left: clamp(0.5rem, -0.6364rem + 5.6818vw, 3rem);
-  padding-right: clamp(0.5rem, -0.6364rem + 5.6818vw, 3rem);;
-}
