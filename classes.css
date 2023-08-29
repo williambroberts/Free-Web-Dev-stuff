@@ -17,3 +17,14 @@ html:focus-within {
 [id] {
     scroll-margin-top: 2rem;
 }
+
+/* hover list dims all but the item with hover */
+.parent:hover >* {
+  opacity: 0.6;
+}
+.parent:hover >*:hover {
+  opacity: 1;
+}
+.parent:hover>*:hover>*{
+  opacity: 1;
+}
