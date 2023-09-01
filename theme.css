@@ -1,0 +1,34 @@
+/* colors are from tailwind CSS slate  */
+
+[data-theme="light"],[data-color="light"]{
+    --bg-1:#FFFFFF; 
+    --bg-2:#f8fafc;
+   --bg-3: #f1f5f9;
+    --bg-4:#e2e8f0;
+    --bg-5:#cbd5e1;
+    
+   
+    --t-1:#020617;
+    --t-2:#1e293b;
+    --t-3:#334155;
+    --t-4:#475569;
+    --t-5:#64748b;
+}
+
+[data-theme='dark'],[data-color="dark"] {
+   
+  
+  
+    --bg-1:#020617;
+    --bg-2:#1e293b;
+    --bg-3:#334155;
+    --bg-4:#475569;
+    --bg-5:#64748b;
+
+    --t-1:#ffffff;
+    --t-2:#f8fafc;
+    --t-3:#f1f5f9;
+    --t-4:#e2e8f0;
+    --t-5:#cbd5e1;
+
+}
