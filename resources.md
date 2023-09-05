@@ -1,15 +1,21 @@
 
-### Resources for Web Dev
+# Resources for Web Dev
 
-# websites that generate stuff
+## online tools
+
+### mysql practise
+https://extendsclass.com/mysql-online.html
+
 ### theme colors 
 https://colorffy.com/dark-theme-generator
+
+
 
 ### to webp image 
 https://pixelied.com/convert/png-converter/png-to-webp
 
-# cheat sheets & infos
+## cheat sheets & infos
 https://cheatsheetseries.owasp.org/cheatsheets
 
-# Online sales
+## Online sales
 https://payhip.com/product/add/digital
