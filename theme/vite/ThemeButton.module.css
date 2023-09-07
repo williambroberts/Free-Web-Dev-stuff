@@ -1,0 +1,11 @@
+.theme {
+    transition: var(--transition-1);
+    @apply flex items-center p-3 rounded font-semibold text-sm
+  }
+
+  .theme:hover {
+    background-color: var(--bg-3);
+  }
+
+
+  /*  */
