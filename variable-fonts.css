@@ -1,1 +1,10 @@
 /* fonts */
+ --s-48: clamp(2.5rem,1.875rem + 2vw,3rem);
+  --s-11: 11px;
+    --s-12: clamp(0.75rem,0.664rem + 0.4587vw,0.875rem);
+    --s-14: 14px;
+    --s-15: 15px;
+    --s-16: clamp(0.9375rem,0.9239rem + 0.0725vw,1rem);
+    --s-20: clamp(1rem,0.9457rem + 0.2899vw,1.25rem);
+    --s-24: clamp(1.0625rem,0.9674rem + 0.5072vw,1.5rem);
+    --s-76:clamp(2.75rem, 2.3152rem + 2.3188vw, 4.75rem);
