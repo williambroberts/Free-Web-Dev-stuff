@@ -20,7 +20,8 @@ https://pixelied.com/convert/png-converter/png-to-webp
 ## cheat sheets & infos
 https://cheatsheetseries.owasp.org/cheatsheets
 
-
+### regular expressions javascript
+https://code.tutsplus.com/a-simple-regex-cheat-sheet--cms-31278t
 
 
 ## Online sales
