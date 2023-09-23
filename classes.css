@@ -28,3 +28,10 @@ html:focus-within {
 .parent:hover>*:hover>*{
   opacity: 1;
 }
+
+
+@media(prefers-color-scheme:dark){
+  img {
+    filter: contrast(1.2) brightness(0.8);
+  }
+}
